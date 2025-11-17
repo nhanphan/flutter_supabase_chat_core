@@ -1,10 +1,10 @@
-name: flutter_supabase_chat_core
+name: flutter_supabase_chat_core_ff_compat
 description: >
-  Actively maintained, community-driven Supabase BaaS for chat applications
+  Compatibility fork of actively maintained, community-driven Supabase BaaS for chat applications
   with an optional chat UI.
 version: 1.6.0
 homepage: https://flutter-supabase-chat-core.insideapp.it
-repository: https://github.com/insideapp-srl/flutter_supabase_chat_core
+repository: https://github.com/nhanphan/flutter_supabase_chat_core
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
