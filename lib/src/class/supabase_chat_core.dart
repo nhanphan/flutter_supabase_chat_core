@@ -6,7 +6,7 @@ import 'package:mime/mime.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 import 'package:uuid/uuid.dart';
 
-import '../../flutter_supabase_chat_core.dart';
+import '../../flutter_supabase_chat_core_ff_compat.dart';
 
 /// Provides access to Supabase chat data. Singleton, use
 /// SupabaseChatCore.instance to access methods.

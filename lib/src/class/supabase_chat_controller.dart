@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:flutter_chat_types/flutter_chat_types.dart' as types;
 import 'package:supabase_flutter/supabase_flutter.dart';
 
-import '../../flutter_supabase_chat_core.dart';
+import '../../flutter_supabase_chat_core_ff_compat.dart';
 
 /// Provides Supabase chat controller. Instance new class
 /// SupabaseChatController to manage a chat.

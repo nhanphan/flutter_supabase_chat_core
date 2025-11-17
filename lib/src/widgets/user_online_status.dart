@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../flutter_supabase_chat_core.dart';
+import '../../flutter_supabase_chat_core_ff_compat.dart';
 
 /// This widget allows you to observe the online/offline status of a specific user
 class UserOnlineStatusWidget extends StatelessWidget {
